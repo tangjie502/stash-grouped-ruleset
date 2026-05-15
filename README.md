@@ -5,7 +5,8 @@ All output files are classical text rule-provider files.
 
 | Proxy group | Output file | Source providers | Rule count |
 |---|---:|---|---:|
-| 🎯 全球直连 | `direct.list` | localareanetwork, unban, googlecn, steamcn, chinadomain, chinacompanyip, download | 961 |
+| 🎯 全球直连 | `direct-priority.list` | localareanetwork, unban, googlecn, steamcn | 113 |
+| 🎯 全球直连 | `direct.list` | chinadomain, chinacompanyip, download | 848 |
 | 🛑 广告拦截 | `ad-block.list` | banad | 588 |
 | 🍃 应用净化 | `app-clean.list` | banprogramad | 1010 |
 | 📢 谷歌FCM | `google-fcm.list` | googlefcm | 35 |
