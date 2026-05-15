@@ -983,3 +983,21 @@ PROCESS-NAME,Weiyun.exe
 PROCESS-NAME,baidunetdisk.exe
 URL-REGEX,assets\d+\.xboxlive\.(com|cn)
 # ---- end download, added 22 unique rules ----
+# ---- local additions from TrafficStatistics 2.csv ----
+DOMAIN-SUFFIX,servicewechat.com
+DOMAIN-SUFFIX,weixinbridge.com
+DOMAIN-SUFFIX,mijia.tech
+DOMAIN-SUFFIX,miot-spec.org
+DOMAIN-SUFFIX,mi-fds.com
+DOMAIN-SUFFIX,zepp.com
+DOMAIN-SUFFIX,miinsurtech.com
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,caiyuncdn.com
+DOMAIN-SUFFIX,caiyunapp.com
+DOMAIN-SUFFIX,colorfulclouds.net
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,bytecdn.com
+DOMAIN-SUFFIX,bytemastatic.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,jin10.com
+DOMAIN-SUFFIX,xhslink.com

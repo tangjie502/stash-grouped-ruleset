@@ -6802,3 +6802,15 @@ DOMAIN-SUFFIX,ocnttv.com
 DOMAIN-SUFFIX,vikacg.com
 DOMAIN-SUFFIX,picjs.xyz
 # ---- end proxygfwlist, added 6798 unique rules ----
+# ---- local additions from TrafficStatistics 2.csv ----
+DOMAIN-SUFFIX,immersivetranslate.com
+DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,ente.io
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,fastly-edge.com
+DOMAIN-SUFFIX,ctfassets.net
+DOMAIN-SUFFIX,revenuecat.com
+DOMAIN-SUFFIX,2fas.com
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,usertrust.com

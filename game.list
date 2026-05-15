@@ -67,3 +67,5 @@ DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,nintendo.nl
 DOMAIN-SUFFIX,nintendowifi.net
 # ---- end nintendo, added 15 unique rules ----
+# ---- local additions from TrafficStatistics 2.csv ----
+DOMAIN-SUFFIX,gog-statics.com
