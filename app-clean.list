@@ -1014,3 +1014,28 @@ DOMAIN-SUFFIX,tracker.yhd.com
 DOMAIN-SUFFIX,tralog.ganji.com
 DOMAIN-SUFFIX,up.qingdaonews.com
 # ---- end banprogramad, added 1010 unique rules ----
+
+# ---- local additions from app splash ad enhancement ----
+DOMAIN,wxsnsad.tc.qq.com
+DOMAIN,wxsnsadthumb.wxs.qq.com
+DOMAIN-SUFFIX,adsmind.ugdtimg.com
+DOMAIN-SUFFIX,union.gdtimg.com
+DOMAIN-SUFFIX,qzs.gdtimg.com
+DOMAIN-SUFFIX,public.gdtimg.com
+DOMAIN-SUFFIX,open.e.kuaishou.com
+DOMAIN-SUFFIX,adukwai.com
+DOMAIN-SUFFIX,gdfp.gifshow.com
+DOMAIN-SUFFIX,ad.partner.gifshow.com
+DOMAIN-SUFFIX,mon.snssdk.com
+DOMAIN-SUFFIX,dm.toutiao.com
+DOMAIN-SUFFIX,dm.pstatp.com
+DOMAIN-SUFFIX,log.byteoversea.com
+DOMAIN-SUFFIX,adsfs.heytapimage.com
+DOMAIN-SUFFIX,adx.ads.oppomobile.com
+DOMAIN-SUFFIX,ads.heytapmobi.com
+DOMAIN-SUFFIX,adxlog.vivo.com.cn
+DOMAIN-SUFFIX,adlog.vivo.com.cn
+DOMAIN-SUFFIX,ads-drcn.platform.hicloud.com
+DOMAIN-SUFFIX,events-drcn.op.hicloud.com
+DOMAIN-SUFFIX,adash.m.taobao.com
+DOMAIN-SUFFIX,adashx.m.taobao.com
