@@ -91,4 +91,12 @@ IP-ASN,14061,no-resolve
 
 # ---- claude_claude ----
 DOMAIN,cdn.usefathom.com
-# ---- end claude_claude, added 1 unique rules ----
+DOMAIN,anthropic-com.ghost.io
+DOMAIN,anthropic.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudemcpcontent.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,statsigapi.net
+# ---- end claude_claude, added 9 unique rules ----
