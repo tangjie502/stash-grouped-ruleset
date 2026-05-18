@@ -10,9 +10,7 @@ All output files are classical text rule-provider files.
 | 🛑 广告拦截 | `ad-block.list` | banad | 588 |
 | 🍃 应用净化 | `app-clean.list` | banprogramad | 1010 |
 | 📢 谷歌FCM | `google-fcm.list` | googlefcm | 35 |
-| Ⓜ️ 微软Bing | `microsoft-bing.list` | bing | 3 |
-| Ⓜ️ 微软云盘 | `microsoft-onedrive.list` | onedrive | 17 |
-| Ⓜ️ 微软服务 | `microsoft.list` | microsoft | 79 |
+| Ⓜ️ 微软服务 | `microsoft.list` | microsoft, bing, onedrive | 94 |
 | 🍎 苹果服务 | `apple.list` | apple | 29 |
 | 📲 电报消息 | `telegram.list` | telegram | 13 |
 | ✨ AI 服务 | `ai.list` | ruleset_openai, anthropic_domain_set, openai_openai, gemini_gemini, copilot_copilot, claude_claude | 73 |

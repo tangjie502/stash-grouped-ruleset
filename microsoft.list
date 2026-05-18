@@ -1,6 +1,6 @@
 # Group: Ⓜ️ 微软服务
 # Format: classical
-# Sources: microsoft
+# Sources: microsoft, bing, onedrive
 
 # ---- microsoft ----
 DOMAIN-KEYWORD,1drv
@@ -83,3 +83,24 @@ DOMAIN-SUFFIX,wunderlist.com
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
 # ---- end microsoft, added 79 unique rules ----
+
+# ---- bing ----
+DOMAIN-SUFFIX,copilot.cloud.microsoft
+DOMAIN-SUFFIX,copilot.microsoft.com
+# ---- end bing, added 2 unique rules ----
+
+# ---- onedrive ----
+PROCESS-NAME,OneDrive
+PROCESS-NAME,OneDriveUpdater
+DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,skydrive
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,oneclient.sfx.ms
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,photos.live.com
+DOMAIN-SUFFIX,skydrive.wns.windows.com
+DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,storage.msn.com
+DOMAIN-SUFFIX,microsoftpersonalcontent.com
+# ---- end onedrive, added 13 unique rules ----
