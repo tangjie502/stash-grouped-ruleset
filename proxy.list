@@ -6825,3 +6825,14 @@ DOMAIN-SUFFIX,shopify.com
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,ip2location.com
 DOMAIN-SUFFIX,ipfoxy.com
+# ---- local additions from TrafficStatistics.csv 2026-05-25 ----
+DOMAIN-SUFFIX,wiline.com
+DOMAIN-SUFFIX,fdcservers.net
+DOMAIN-SUFFIX,frontier.com
+DOMAIN-SUFFIX,nitelusa.net
+DOMAIN-SUFFIX,webnx.com
+DOMAIN-SUFFIX,clouvider.net
+DOMAIN-SUFFIX,gigenet.com
+DOMAIN-SUFFIX,lightsource1.com
+DOMAIN-SUFFIX,ripplefiber.com
+DOMAIN-SUFFIX,gslnetworks.com
