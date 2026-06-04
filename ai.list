@@ -101,3 +101,6 @@ DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,statsigapi.net
 # ---- end claude_claude, added 9 unique rules ----
+
+# ---- local additions from geeki.mom routing ----
+DOMAIN,ai.geeki.mom
