@@ -13,7 +13,7 @@ All output files are classical text rule-provider files.
 | Ⓜ️ 微软服务 | `microsoft.list` | microsoft, bing, onedrive | 94 |
 | 🍎 苹果服务 | `apple.list` | apple | 29 |
 | 📲 电报消息 | `telegram.list` | telegram | 13 |
-| ✨ AI 服务 | `ai.list` | ruleset_openai, anthropic_domain_set, openai_openai, gemini_gemini, copilot_copilot, claude_claude | 73 |
+| ✨ AI 服务 | `ai.list` | ruleset_openai, anthropic_domain_set, openai_openai, gemini_gemini, copilot_copilot, claude_claude, local AI service coverage | 112 |
 | 🎮 游戏平台 | `game.list` | epic, origin, sony, steam, nintendo | 51 |
 | 📹 油管视频 | `youtube.list` | youtube | 14 |
 | 🎥 奈飞视频 | `netflix.list` | netflix | 40 |
