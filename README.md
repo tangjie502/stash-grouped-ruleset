@@ -17,7 +17,6 @@ All output files are classical text rule-provider files.
 | 🎮 游戏平台 | `game.list` | epic, origin, sony, steam, nintendo | 51 |
 | 📹 油管视频 | `youtube.list` | youtube | 14 |
 | 🎥 奈飞视频 | `netflix.list` | netflix | 40 |
-| 📺 巴哈姆特 | `bahamut.list` | bahamut | 5 |
 | 📺 哔哩哔哩 | `bilibili.list` | bilibilihmt, bilibili | 37 |
 | 🌏 国内媒体 | `china-media.list` | chinamedia | 38 |
 | 💵 BTC | `crypto.list` | cryptostore | 16 |
