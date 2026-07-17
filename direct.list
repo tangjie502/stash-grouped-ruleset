@@ -1,6 +1,6 @@
 # Group: 🎯 全球直连 宽泛规则
 # Format: classical
-# Sources: chinadomain, chinacompanyip, download
+# Sources: chinadomain, chinacompanyip, download, neteasemusic, local TrafficStatistics coverage
 
 # ---- chinadomain ----
 DOMAIN-SUFFIX,13th.tech
@@ -930,3 +930,30 @@ IP-CIDR,193.112.159.225/32,no-resolve
 IP-CIDR,223.252.199.66/31,no-resolve
 IP-CIDR,223.252.199.66/32,no-resolve
 IP-CIDR,223.252.199.67/32,no-resolve
+
+# ---- local additions from TrafficStatistics.csv 2026-07-17 ----
+DOMAIN-SUFFIX,cmbimg.com
+DOMAIN-SUFFIX,speiyou.com
+DOMAIN-SUFFIX,freshippo.com
+DOMAIN-SUFFIX,bosera.com
+DOMAIN-SUFFIX,fcbox.com
+DOMAIN-SUFFIX,pddugc.com
+DOMAIN-SUFFIX,pinduoduo.net
+DOMAIN-SUFFIX,healthjd.com
+DOMAIN-SUFFIX,jdallianz.com
+DOMAIN-SUFFIX,jdcloud-oss.com
+DOMAIN-SUFFIX,anjuke.com
+DOMAIN-SUFFIX,midea.com
+DOMAIN-SUFFIX,alibaba-inc.com
+DOMAIN-SUFFIX,antgroup.com
+DOMAIN-SUFFIX,youzan.com
+DOMAIN-SUFFIX,youzanyun.com
+DOMAIN-SUFFIX,tencent-cloud.com
+DOMAIN-SUFFIX,unionpay.com
+DOMAIN-SUFFIX,netease.im
+DOMAIN-SUFFIX,qianwen.com
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,onewo.com
+DOMAIN-SUFFIX,yumchina.com
+DOMAIN-SUFFIX,shouqianba.com
+DOMAIN-SUFFIX,unicompayment.com

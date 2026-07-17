@@ -1,6 +1,6 @@
-# Group: 💵 BTC
+# Group: 🪙 BTC
 # Format: classical
-# Sources: cryptostore
+# Sources: cryptostore, local TrafficStatistics coverage
 
 # ---- cryptostore ----
 DOMAIN-SUFFIX,appsflayer.com
@@ -20,3 +20,13 @@ DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,okx.com
 # ---- end cryptostore, added 16 unique rules ----
+
+# ---- local additions from TrafficStatistics.csv 2026-07-17 ----
+DOMAIN-SUFFIX,polymarket.com
+DOMAIN-SUFFIX,polymarket.us
+DOMAIN,polymarket-upload.s3.us-east-2.amazonaws.com
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,binance.us

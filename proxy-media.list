@@ -1,6 +1,6 @@
-# Group: 🌍 国外媒体
+# Group: 🌐 国外媒体
 # Format: classical
-# Sources: proxymedia
+# Sources: proxymedia, local TrafficStatistics coverage
 
 # ---- proxymedia ----
 DOMAIN-SUFFIX,edgedatg.com
@@ -359,4 +359,20 @@ DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN,music.youtube.com
-# ---- end proxymedia, added 357 unique rules ----
+# ---- end proxymedia, 356 active unique rules ----
+
+# ---- local additions from TrafficStatistics.csv 2026-07-17 ----
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,tubitv.com
+DOMAIN-SUFFIX,missav.app
+DOMAIN-SUFFIX,tiktok-minis.com
+DOMAIN-SUFFIX,tiktokglobalshopv.com
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,bnextmedia.com.tw
+DOMAIN-SUFFIX,bnext.com.tw

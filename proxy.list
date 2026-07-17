@@ -1,6 +1,6 @@
 # Group: 🧭 节点选择
 # Format: classical
-# Sources: proxygfwlist, googlefcm
+# Sources: proxygfwlist, googlefcm, local TrafficStatistics coverage
 
 # ---- proxygfwlist ----
 DOMAIN-SUFFIX,1password.com
@@ -669,7 +669,6 @@ DOMAIN-SUFFIX,bitchute.com
 DOMAIN-SUFFIX,bitcointalk.org
 DOMAIN-SUFFIX,bitcoinworld.com
 DOMAIN-SUFFIX,bitfinex.com
-DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bithumb.com
 DOMAIN-SUFFIX,bitinka.com.ar
 DOMAIN-SUFFIX,bitmex.com
@@ -735,7 +734,6 @@ DOMAIN-SUFFIX,bmdru.com
 DOMAIN-SUFFIX,bmfinn.com
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bnews.co
-DOMAIN-SUFFIX,bnext.com.tw
 DOMAIN-SUFFIX,bnn.co
 DOMAIN-SUFFIX,bnrmetal.com
 DOMAIN-SUFFIX,boardreader.com
@@ -846,7 +844,6 @@ DOMAIN-SUFFIX,bwh1.net
 DOMAIN-SUFFIX,bwsj.hk
 DOMAIN-SUFFIX,bx.in.th
 DOMAIN-SUFFIX,bx.tl
-DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bynet.co.il
 DOMAIN-SUFFIX,bypasscensorship.org
 DOMAIN-SUFFIX,byrut.org
@@ -1176,7 +1173,6 @@ DOMAIN-SUFFIX,codeskulptor.org
 DOMAIN-SUFFIX,cofacts.tw
 DOMAIN-SUFFIX,coffeemanga.to
 DOMAIN-SUFFIX,coin2co.in
-DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,coinbene.com
 DOMAIN-SUFFIX,coinegg.com
 DOMAIN-SUFFIX,coinex.com
@@ -3320,7 +3316,6 @@ DOMAIN-SUFFIX,korea.net
 DOMAIN-SUFFIX,korenan2.com
 DOMAIN-SUFFIX,kpkuang.org
 DOMAIN-SUFFIX,kqes.net
-DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,krtco.com.tw
 DOMAIN-SUFFIX,ksdl.org
 DOMAIN-SUFFIX,ksnews.com.tw
@@ -4421,7 +4416,6 @@ DOMAIN-SUFFIX,politicalchina.org
 DOMAIN-SUFFIX,politicalconsultation.org
 DOMAIN-SUFFIX,politiscales.net
 DOMAIN-SUFFIX,poloniex.com
-DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,polymerhk.com
 DOMAIN-SUFFIX,poolin.com
@@ -4519,7 +4513,6 @@ DOMAIN-SUFFIX,proxz.com
 DOMAIN-SUFFIX,proyectoclubes.com
 DOMAIN-SUFFIX,prozz.net
 DOMAIN-SUFFIX,psblog.name
-DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,pshvpn.com
 DOMAIN-SUFFIX,psiphon.ca
 DOMAIN-SUFFIX,psiphon3.com
@@ -5253,7 +5246,6 @@ DOMAIN-SUFFIX,syx86.com
 DOMAIN-SUFFIX,szbbs.net
 DOMAIN-SUFFIX,szetowah.org.hk
 DOMAIN-SUFFIX,t-g.com
-DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,t.orzdream.com
 DOMAIN-SUFFIX,t35.com
@@ -5404,7 +5396,6 @@ DOMAIN-SUFFIX,thehots.info
 DOMAIN-SUFFIX,thehousenews.com
 DOMAIN-SUFFIX,thehun.net
 DOMAIN-SUFFIX,theinitium.com
-DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,thenewslens.com
 DOMAIN-SUFFIX,thepiratebay.ee
 DOMAIN-SUFFIX,thepiratebay.org
@@ -5568,7 +5559,6 @@ DOMAIN-SUFFIX,tkcs-collins.com
 DOMAIN-SUFFIX,tl.gd
 DOMAIN-SUFFIX,tma.co.jp
 DOMAIN-SUFFIX,tmagazine.com
-DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,tmdfish.com
 DOMAIN-SUFFIX,tmi.me
 DOMAIN-SUFFIX,tmpp.org
@@ -5762,7 +5752,6 @@ DOMAIN-SUFFIX,twilightsex.com
 DOMAIN-SUFFIX,twilio.com
 DOMAIN-SUFFIX,twilog.org
 DOMAIN-SUFFIX,twimbow.com
-DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twindexx.com
 DOMAIN-SUFFIX,twip.me
 DOMAIN-SUFFIX,twipple.jp
@@ -5787,7 +5776,6 @@ DOMAIN-SUFFIX,twitonmsn.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitstat.com
 DOMAIN-SUFFIX,twittbot.net
-DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitter.jp
 DOMAIN-SUFFIX,twitter4j.org
 DOMAIN-SUFFIX,twittercounter.com
@@ -6336,7 +6324,6 @@ DOMAIN-SUFFIX,x-art.com
 DOMAIN-SUFFIX,x-berry.com
 DOMAIN-SUFFIX,x-wall.org
 DOMAIN-SUFFIX,x.co
-DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,x1949x.com
 DOMAIN-SUFFIX,x24hr.com
@@ -6873,3 +6860,22 @@ IP-CIDR,172.253.122.188/32,no-resolve
 IP-CIDR,173.194.175.188/32,no-resolve
 IP-CIDR,173.194.218.188/32,no-resolve
 IP-CIDR,209.85.233.188/32,no-resolve
+
+# ---- local additions from TrafficStatistics.csv 2026-07-17 ----
+DOMAIN-SUFFIX,dmit.io
+DOMAIN-SUFFIX,withpersona.com
+DOMAIN-SUFFIX,sendgrid.net
+DOMAIN-SUFFIX,codeweavers.com
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,termius.com
+DOMAIN-SUFFIX,bitwarden.net
+DOMAIN-SUFFIX,stash.ws
+DOMAIN-SUFFIX,intercomassets.com
+DOMAIN-SUFFIX,customeriomail.com
+DOMAIN-SUFFIX,ecosia.org
+DOMAIN-SUFFIX,cookielaw.org
+DOMAIN-SUFFIX,sailthru.com
+DOMAIN-SUFFIX,mailerlite.com
+DOMAIN-SUFFIX,split.io
+DOMAIN-SUFFIX,phonedeck.io
+DOMAIN-SUFFIX,safetydetectives.com
