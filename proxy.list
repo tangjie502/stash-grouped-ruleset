@@ -6837,7 +6837,7 @@ DOMAIN-SUFFIX,lightsource1.com
 DOMAIN-SUFFIX,ripplefiber.com
 DOMAIN-SUFFIX,gslnetworks.com
 
-# ---- local additions from google-fcm.list 2026-07-17 ----
+# ---- local additions from Google FCM 2026-07-17 ----
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
 DOMAIN,alt3-mtalk.google.com
