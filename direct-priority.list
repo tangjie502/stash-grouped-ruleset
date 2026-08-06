@@ -117,3 +117,6 @@ DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamusercontent.com
 # ---- end steamcn, added 16 unique rules ----
+
+# ---- local additions from AMap mobileDispatch 2026-08-06 ----
+URL-REGEX,^https?:\/\/amdc\.m\.taobao\.com\/amdc\/mobileDispatch
