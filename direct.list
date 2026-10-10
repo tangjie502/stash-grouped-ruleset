@@ -849,15 +849,16 @@ DOMAIN-SUFFIX,smtp
 DOMAIN-KEYWORD,aria2
 URL-REGEX,(Subject|HELO|SMTP)
 URL-REGEX,(api|ps|sv|offnavi|newvector|ulog.imap|newloc)(.map|).(baidu|n.shifen).com
-URL-REGEX,(.+.|^)(360|so|qihoo|360safe|qhimg|360totalsecurity|yunpan).(cn|com)
-URL-REGEX,(.+.)?(torrent|announce.php?passkey=|tracker|BitTorrent|bt_key|ed2k|find_node|get_peers|info_hash|magnet:|peer_id=|xunlei)(..+)?
+# Removed two broad URL regexes after Surge logged 884.23 ms and 1136.94 ms
+# evaluations on 2026-10-10. Keep domain/process rules; do not route downloads
+# solely by generic URL keywords such as tracker or torrent.
 URL-REGEX,(.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
 PROCESS-NAME,DownloadService.exe
 URL-REGEX,(.+\.|^)(360|so)\.(cn|com)
 PROCESS-NAME,Weiyun.exe
 PROCESS-NAME,baidunetdisk.exe
 URL-REGEX,assets\d+\.xboxlive\.(com|cn)
-# ---- end download, added 22 unique rules ----
+# ---- end download, 20 rules ----
 # ---- local additions from TrafficStatistics 2.csv ----
 DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,weixinbridge.com
