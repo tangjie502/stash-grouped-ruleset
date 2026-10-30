@@ -30,3 +30,6 @@ DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,binance.us
+
+# ---- local additions from TrafficStatistics.csv 2026-10-30 ----
+DOMAIN-SUFFIX,crypto.com

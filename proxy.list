@@ -6879,3 +6879,12 @@ DOMAIN-SUFFIX,mailerlite.com
 DOMAIN-SUFFIX,split.io
 DOMAIN-SUFFIX,phonedeck.io
 DOMAIN-SUFFIX,safetydetectives.com
+
+# ---- local additions from TrafficStatistics.csv 2026-10-30 ----
+DOMAIN-SUFFIX,mailinblue.com
+DOMAIN-SUFFIX,giffgaff.com
+DOMAIN-SUFFIX,nodejs.org
+DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,unpkg.com
+DOMAIN-SUFFIX,parallels.com
+DOMAIN-SUFFIX,producthunt.com

@@ -1039,3 +1039,7 @@ DOMAIN-SUFFIX,ads-drcn.platform.hicloud.com
 DOMAIN-SUFFIX,events-drcn.op.hicloud.com
 DOMAIN-SUFFIX,adash.m.taobao.com
 DOMAIN-SUFFIX,adashx.m.taobao.com
+
+# ---- local additions from TrafficStatistics.csv 2026-10-30 ----
+DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN,browser-intake-us5-datadoghq.com

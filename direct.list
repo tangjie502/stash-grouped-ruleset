@@ -958,3 +958,15 @@ DOMAIN-SUFFIX,onewo.com
 DOMAIN-SUFFIX,yumchina.com
 DOMAIN-SUFFIX,shouqianba.com
 DOMAIN-SUFFIX,unicompayment.com
+
+# ---- local additions from TrafficStatistics.csv 2026-10-30 ----
+DOMAIN-SUFFIX,shayujizhang.com
+DOMAIN-SUFFIX,weimob.com
+DOMAIN-SUFFIX,ddky.com
+DOMAIN-SUFFIX,didistatic.com
+DOMAIN-SUFFIX,seewo.com
+DOMAIN-SUFFIX,zhongan.com
+DOMAIN-SUFFIX,ikuai8.com
+DOMAIN-SUFFIX,liepin.com
+DOMAIN-SUFFIX,ecombdimg.com
+DOMAIN-SUFFIX,jinritemai.com

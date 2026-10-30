@@ -5,19 +5,21 @@ All output files are classical text rule-provider files.
 
 | Proxy group | Output file | Source providers | Rule count |
 |---|---:|---|---:|
-| 🎯 全球直连 | `direct-priority.list` | localareanetwork, unban, googlecn, steamcn | 104 |
-| 🎯 全球直连 | `direct.list` | chinadomain, chinacompanyip, download, neteasemusic, local TrafficStatistics coverage | 941 |
-| 🛑 广告拦截 | `ad-block.list` | banad | 588 |
-| 🍃 应用净化 | `app-clean.list` | banprogramad | 1010 |
+| 🎯 全球直连 | `direct-priority.list` | localareanetwork, unban, googlecn, steamcn | 105 |
+| 🎯 全球直连 | `direct.list` | chinadomain, chinacompanyip, download, neteasemusic, local TrafficStatistics coverage | 949 |
+| 🛑 广告拦截 | `ad-block.list` | banad | 594 |
+| 🍃 应用净化 | `app-clean.list` | banprogramad | 1035 |
 | Ⓜ️ 微软服务 | `microsoft.list` | microsoft, bing, onedrive | 94 |
-| 🍎 苹果服务 | `apple.list` | apple | 29 |
+| 🍎 苹果服务 | `apple.list` | apple | 35 |
 | 📲 电报消息 | `telegram.list` | telegram | 13 |
-| ✨ AI 服务 | `ai.list` | ruleset_openai, anthropic_domain_set, openai_openai, gemini_gemini, copilot_copilot, claude_claude, local AI service coverage | 112 |
-| 🎮 游戏平台 | `game.list` | epic, origin, sony, steam, nintendo | 51 |
+| ✨ AI 服务 | `ai.list` | ruleset_openai, anthropic_domain_set, openai_openai, gemini_gemini, copilot_copilot, claude_claude, local AI service coverage | 171 |
+| 🎮 游戏平台 | `game.list` | epic, origin, sony, steam, nintendo | 55 |
 | 📹 油管视频 | `youtube.list` | youtube | 14 |
 | 🎥 奈飞视频 | `netflix.list` | netflix | 40 |
 | 📺 哔哩哔哩 | `bilibili.list` | bilibilihmt, bilibili, local TrafficStatistics coverage | 39 |
-| 🌏 国内媒体 | `china-media.list` | chinamedia | 38 |
-| 🪙 BTC | `crypto.list` | cryptostore, local TrafficStatistics coverage | 24 |
+| 🌏 国内媒体 | `china-media.list` | chinamedia | 39 |
+| 🪙 BTC | `crypto.list` | cryptostore, local TrafficStatistics coverage | 25 |
 | 🌐 国外媒体 | `proxy-media.list` | proxymedia, local TrafficStatistics coverage | 370 |
-| 🧭 节点选择 | `proxy.list` | proxygfwlist, googlefcm, local TrafficStatistics coverage | 6869 |
+| 🧭 节点选择 | `proxy.list` | proxygfwlist, googlefcm, local TrafficStatistics coverage | 6876 |
+
+AI coverage sources and scope: [2026-10-30 audit](docs/ai-coverage-2026-10-30.md).

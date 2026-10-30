@@ -70,3 +70,7 @@ DOMAIN-SUFFIX,nintendowifi.net
 # ---- local additions from TrafficStatistics 2.csv ----
 DOMAIN-SUFFIX,gog-statics.com
 DOMAIN-SUFFIX,riotgames.com
+
+# ---- local additions from TrafficStatistics.csv 2026-10-30 ----
+DOMAIN-SUFFIX,itch.io
+DOMAIN-SUFFIX,itch.zone

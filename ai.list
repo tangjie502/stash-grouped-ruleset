@@ -35,7 +35,6 @@ DOMAIN,openai-api.arkoselabs.com
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,production-openaicom-storage.azureedge.net
-DOMAIN,static.cloudflareinsights.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,api.statsig.com
@@ -136,5 +135,131 @@ DOMAIN-SUFFIX,jetbrains.ai
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,grazie.aws.intellij.net
 
-# ---- local additions from LM Studio routing 2026-08-20 ----
-DOMAIN,search.lmstudio.ai
+# ---- LM Studio search rule consolidated into service coverage 2026-10-30 ----
+
+# ---- local additions from TrafficStatistics.csv 2026-10-30 ----
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,tavily.com
+DOMAIN-SUFFIX,manus.im
+
+# ---- local additions from verified AI service coverage 2026-10-30 ----
+# Official sources and scope: docs/ai-coverage-2026-10-30.md
+
+# OpenAI / ChatGPT
+DOMAIN-SUFFIX,oaistatsig.com
+DOMAIN,cdn.workos.com
+DOMAIN,forwarder.workos.com
+DOMAIN,frontend-apps-multi-region.workos.com
+DOMAIN,setup.workos.com
+DOMAIN,images.workoscdn.com
+DOMAIN,workos.imgix.net
+
+# ChatGPT 别名
+DOMAIN-SUFFIX,chat.com
+
+# Cursor API、资源和云端运行
+DOMAIN-SUFFIX,cursorapi.com
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,cursorvm.com
+
+# Cursor / Grok 认证和资源
+DOMAIN-SUFFIX,grokusercontent.com
+DOMAIN-SUFFIX,grokipedia.com
+DOMAIN,accounts.spacex.ai
+
+# Windsurf / Codeium / Devin
+DOMAIN-SUFFIX,windsurf.com
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,codeiumdata.com
+DOMAIN-SUFFIX,devin.ai
+DOMAIN-SUFFIX,devinenterprise.com
+
+# Google Gemini Code Assist 专用接口
+DOMAIN,cloudaicompanion.googleapis.com
+DOMAIN,cloudcode-pa.googleapis.com
+
+# Google Antigravity
+DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,antigravity.google.com
+DOMAIN-SUFFIX,antigravity-unleash.goog
+DOMAIN,daily-cloudcode-pa.googleapis.com
+DOMAIN,aicode.googleapis.com
+
+# Google Jules
+DOMAIN-SUFFIX,jules.google
+DOMAIN-SUFFIX,jules.google.com
+
+# Gemini 别名
+DOMAIN-SUFFIX,gemini.google
+
+# NotebookLM / Gemini Notebook 别名
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebook.google
+
+# Perplexity 别名
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN-SUFFIX,perplexity.com
+
+# Hugging Face 别名
+DOMAIN-SUFFIX,hf.co
+
+# Hugging Face Spaces
+DOMAIN-SUFFIX,hf.space
+
+# Manus 专用文件资源（官网 HTML 使用 files.manuscdn.com）
+DOMAIN-SUFFIX,manuscdn.com
+
+# ElevenLabs 语音和 API
+DOMAIN-SUFFIX,elevenlabs.io
+
+# ElevenLabs 别名
+DOMAIN-SUFFIX,elevenlabs.com
+
+# Cerebras 推理服务
+DOMAIN-SUFFIX,cerebras.ai
+
+# LM Studio
+DOMAIN-SUFFIX,lmstudio.ai
+
+# DeepWiki
+DOMAIN-SUFFIX,deepwiki.com
+
+# Lovable
+DOMAIN-SUFFIX,lovable.dev
+
+# v0
+DOMAIN-SUFFIX,v0.app
+
+# v0 旧域名
+DOMAIN-SUFFIX,v0.dev
+
+# Bolt
+DOMAIN-SUFFIX,bolt.new
+
+# Runway 网站及 API
+DOMAIN-SUFFIX,runwayml.com
+DOMAIN-SUFFIX,runway.com
+
+# Suno 音乐及专用资源
+DOMAIN-SUFFIX,suno.com
+DOMAIN-SUFFIX,suno.ai
+
+# Udio
+DOMAIN-SUFFIX,udio.com
+
+# Ideogram
+DOMAIN-SUFFIX,ideogram.ai
+
+# Krea
+DOMAIN-SUFFIX,krea.ai
+
+# fal 生成媒体平台
+DOMAIN-SUFFIX,fal.ai
+
+# fal 推理和结果资源
+DOMAIN-SUFFIX,fal.run
+DOMAIN-SUFFIX,fal.media
+
+# Stability AI 及其官网链接的 Stable Audio
+DOMAIN-SUFFIX,stability.ai
+DOMAIN-SUFFIX,stableaudio.com
